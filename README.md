@@ -9,7 +9,7 @@ A collection of small projects built in C as part of my programming journey.
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [Calculator](./Calculator/) | Basic arithmetic calculator with a menu |
-| 2 | Multiplication Table | Coming soon |
+| 2 | [Multiplication Table](./Multiplication-Table/) | Generates a multiplication table for any number and range |
 | 3 | Factorial | Coming soon |
 | 4 | Reverse Number | Coming soon |
 | 5 | Prime Checker | Coming soon |
