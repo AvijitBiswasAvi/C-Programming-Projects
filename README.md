@@ -11,7 +11,7 @@ A collection of small projects built in C as part of my programming journey.
 | 1 | [Calculator](./Calculator/) | Basic arithmetic calculator with a menu |
 | 2 | [Multiplication Table](./Multiplication-Table/) | Generates a multiplication table for any number and range |
 | 3 | [Factorial Calculator](./Factorial-Calculator/) | Calculates the factorial of a given number |
-| 4 | Reverse Number | Coming soon |
+| 4 | [Reverse Number](./Reverse-Number/) | Reverses the digits of a given number |
 | 5 | Prime Checker | Coming soon |
 | 6 | Pattern Printing | Coming soon |
 | 7 | Sum of Digits | Coming soon |
