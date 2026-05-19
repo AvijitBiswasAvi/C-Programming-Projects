@@ -13,7 +13,7 @@ A collection of small projects built in C as part of my programming journey.
 | 3 | [Factorial Calculator](./Factorial-Calculator/) | Calculates the factorial of a given number |
 | 4 | [Reverse Number](./Reverse-Number/) | Reverses the digits of a given number |
 | 5 | [Prime Checker](./Prime-Number-Checker/) | Checks weather a given number is prime or not |
-| 6 | Pattern Printing Triangle | Coming soon |
+| 6 | [Pattern Printing Triangle] | Coming soon |
 | 7 | Sum of Digits | Coming soon |
 | 8 | Palindrome Checker | Coming soon |
 
