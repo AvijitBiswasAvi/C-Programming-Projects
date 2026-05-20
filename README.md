@@ -14,7 +14,7 @@ A collection of small projects built in C as part of my programming journey.
 | 4 | [Reverse Number](./Reverse-Number/) | Reverses the digits of a given number |
 | 5 | [Prime Checker](./Prime-Number-Checker/) | Checks weather a given number is prime or not |
 | 6 | [Pattern Printing Triangle](./Pattern-Printing-Triangle/) | Prints a pattern of stars in a triangle shape |
-| 7 | Sum of Digits | Coming soon |
+| 7 | [Pattern Printing Pyramid] | Coming soon |
 | 8 | Palindrome Checker | Coming soon |
 
 ---
