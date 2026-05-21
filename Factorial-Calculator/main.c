@@ -8,6 +8,7 @@ int main()
 
     printf("Enter the number = ");
     scanf("%d", &n);
+    
 
     if (n < 0)
     {
