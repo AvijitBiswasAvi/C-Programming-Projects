@@ -17,7 +17,7 @@ A collection of small projects built in C as part of my programming journey.
 | 7 | [Pattern Printing Pyramid](/Pattern-Printing-Pyramid/) | Prints a pattern of stars in a pyramid shap |
 | 8 | [Palindrome Checker](/Palindrome-Checker/) | Checks if the given number is a palindrome or not |
 | 9 | [Sum of digits](/Sum-Of-Digits/) | Calculate the sum of digits from a given number |
-| 10 | [Sum of digits](/Sum-Of-Digits/) | Calculate the sum of digits from a given number |
+| 10 | [Odd Even num generator](/Odd-Even-Numbers/) | Takes choice and generate odd or even numbers to the given number |
 ---
 
 ## How to Run Any Project
