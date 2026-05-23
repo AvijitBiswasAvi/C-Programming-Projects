@@ -12,7 +12,7 @@ A collection of small projects built in C as part of my programming journey.
 | 2 | [Multiplication Table](./Multiplication-Table/) | Generates a multiplication table for any number and range |
 | 3 | [Factorial Calculator](./Factorial-Calculator/) | Calculates the factorial of a given number |
 | 4 | [Reverse Number](./Reverse-Number/) | Reverses the digits of a given number |
-| 5 | [Prime Checker](./Prime-Number-Checker/) | Checks weather a given number is prime or not |
+| 5 | [Prime Checker](./Prime-Number-Checker/) | Checks wether a given number is prime or not |
 | 6 | [Pattern Printing Triangle](./Pattern-Printing-Triangle/) | Prints a pattern of stars in a triangle shape |
 | 7 | [Pattern Printing Pyramid](/Pattern-Printing-Pyramid/) | Prints a pattern of stars in a pyramid shap |
 | 8 | [Palindrome Checker](/Palindrome-Checker/) | Checks if the given number is a palindrome or not |
